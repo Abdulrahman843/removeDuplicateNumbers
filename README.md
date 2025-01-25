@@ -1,4 +1,4 @@
-# My First Task: Remove Duplicate Numbers
+# Remove Duplicate Numbers
 
 This is a simple Node.js project that demonstrates how to remove duplicate numbers from an array using the `lodash` library.
 
